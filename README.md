@@ -1,0 +1,2 @@
+# pruebaboot
+ejemplo de boot
